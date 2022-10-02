@@ -12,3 +12,5 @@ me again
 # hi~ My name is gina~ 1 2 3
 
 # hi~ My hobby is listening to music
+
+# music is my life
